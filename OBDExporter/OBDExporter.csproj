@@ -7,8 +7,8 @@
     <ProjectGuid>{8BA4DB67-343A-4893-93B8-F46445D2EACE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OBDExport</RootNamespace>
-    <AssemblyName>OBDExport</AssemblyName>
+    <RootNamespace>OBDExporter</RootNamespace>
+    <AssemblyName>OBDExporter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

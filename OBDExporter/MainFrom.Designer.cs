@@ -1,4 +1,4 @@
-﻿namespace SpriteSheetExport
+﻿namespace OBDExporter
 {
     partial class MainFrom
     {
@@ -270,7 +270,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.objectsTabControl);
             this.Name = "MainFrom";
-            this.Text = "OBDExport";
+            this.Text = "OBDExporter";
             this.objectsTabControl.ResumeLayout(false);
             this.itemsTabPage.ResumeLayout(false);
             this.outfitsTabPage.ResumeLayout(false);

@@ -9,7 +9,7 @@ using System.IO;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace SpriteSheetExport
+namespace OBDExporter
 {
     public partial class MainFrom : Form
     {
