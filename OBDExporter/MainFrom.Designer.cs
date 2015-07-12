@@ -271,6 +271,7 @@
             this.Controls.Add(this.objectsTabControl);
             this.Name = "MainFrom";
             this.Text = "OBDExporter";
+            this.Load += new System.EventHandler(this.MainFrom_Load);
             this.objectsTabControl.ResumeLayout(false);
             this.itemsTabPage.ResumeLayout(false);
             this.outfitsTabPage.ResumeLayout(false);

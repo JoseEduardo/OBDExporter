@@ -123,6 +123,11 @@ namespace OBDExporter
 
         #region | Event Handlers |
 
+        private void MainFrom_Load(object sender, EventArgs e)
+        {
+            this.Text = "OBDExporter 0.2.1";
+        }
+
         private void ClientLoaded_Handler(object sender, EventArgs e)
         {
             this.loadButton.Enabled = false;
