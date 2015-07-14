@@ -1,6 +1,6 @@
 ﻿namespace OBDExporter
 {
-    partial class MainFrom
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.

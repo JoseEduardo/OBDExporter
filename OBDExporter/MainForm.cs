@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace OBDExporter
 {
-    public partial class MainFrom : Form
+    public partial class MainForm : Form
     {
         #region | Private Properties |
 
@@ -23,7 +23,7 @@ namespace OBDExporter
 
         #region | Constructor |
 
-        public MainFrom()
+        public MainForm()
         {
             this.versions = new VersionStorage();
             this.client = new ClientImpl();
